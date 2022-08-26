@@ -4,7 +4,7 @@
 
 The shifted white noise (SWN) is a stimuli that, by introducing random spatial shifts in the usual white noise stimulus, increases the resolution of the measurements, estimating faster and more acurater visual receptive fields.
 
-### Instalation
+### Installation
 #### 1) Clone the code or download and unzip it. 
 
 Go to the directory where the code is. 
@@ -60,11 +60,4 @@ In addition you can directly write your question on discussion section, send an 
 
 ### Documentation
 For more details on the SWN, please visit the [project webpage](https://team.inria.fr/biovision/swn/).
-
-
-### Citation
-The journal article describing and evaluating the SWN is available here:XXX
-If you use the SWN, please do not forget to cite the article. 
-The bibtex entry is below.
-XXX
 
